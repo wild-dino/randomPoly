@@ -1,0 +1,66 @@
+<svg width="700" height="150" viewBox="0 0 700 150" xmlns="http://www.w3.org/2000/svg">
+  		<rect width="100%" height="100%" fill="#c8d7ca" />
+ 		 
+	<circle 
+	  cx="165" 
+	  cy="73" 
+	  r="36" 
+	  fill="#bf7119"
+	  opacity="0.77"
+	  stroke="#4d474a"
+	  stroke-width="0"
+	/>
+	<rect 
+	  x="171" 
+	  y="26" 
+	  width="329" 
+	  height="68" 
+	  fill="#cacc8d" 
+	  opacity="0.39"
+	  rx="11"
+	/>
+	<path 
+	  d="M 287 43 C 548 73 548 73 548 73 C 687 99 687 99 687 99 Z" 
+	  stroke="#470060" 
+	  fill="none" 
+	  stroke-width="3"
+	  opacity="0.31"
+	/>
+	<path 
+	  d="M 44 17 C 501 133 501 133 501 133 C 288 133 288 133 288 133 Z" 
+	  stroke="#2c661b" 
+	  fill="none" 
+	  stroke-width="1"
+	  opacity="0.55"
+	/>
+	<rect 
+	  x="346" 
+	  y="25" 
+	  width="265" 
+	  height="21" 
+	  fill="#48d0a9" 
+	  opacity="0.42"
+	  rx="44"
+	/>
+	<circle 
+	  cx="35" 
+	  cy="86" 
+	  r="11" 
+	  fill="#bbab6e"
+	  opacity="0.92"
+	  stroke="#0cfb24"
+	  stroke-width="1"
+	/>
+	<path 
+	  d="M 521 82 C 219 118 219 118 219 118 Z" 
+	  stroke="#7254e7" 
+	  fill="none" 
+	  stroke-width="5"
+	  opacity="0.91"
+	/>
+	<polygon 
+	  points="549.9976085451993,60.73216063589674 543.6030648847845,73.28768792687161 533.6250811426698,75.93685368930679 523.3891925069089,70.49679679462395 522.2084215349387,53.16574698058715 531.5402032367814,46.40445936742245 546.9061804508295,51.87624709495677" 
+	  fill="#ab5bfa" 
+	  opacity="0.35"
+	/>
+		</svg>
