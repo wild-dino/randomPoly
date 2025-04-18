@@ -1,0 +1,59 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  		<rect width="100%" height="100%" fill="#5b3ede" />
+ 		 
+	<circle 
+	  cx="347" 
+	  cy="283" 
+	  r="130" 
+	  fill="#d09b31"
+	  opacity="1.00"
+	  stroke="#7e86ae"
+	  stroke-width="4"
+	/>
+	<rect 
+	  x="119" 
+	  y="415" 
+	  width="36" 
+	  height="52" 
+	  fill="#716b9b" 
+	  stroke="#b85d48"
+	  stroke-width="1"
+	  opacity="0.52"
+	  rx="4"
+	/>
+	<polygon 
+	  points="277.98851226598725,376.4218682140797 198.3514949477907,462.60281121138195 102.00206215159717,374.3975596057422 180.7874811700047,287.48354727934304" 
+	  fill="#c444ee" 
+	  opacity="0.63"
+	/>
+	<path 
+	  d="M 85 149 C  428 197 428 197 428 197 Z" 
+	  stroke="#7da36f" 
+	  fill="none" 
+	  stroke-width="4"
+	  opacity="0.75"
+	/>
+	<path 
+	  d="M 425 63 C  283 464 283 464 283 464 Z" 
+	  stroke="#e6ed45" 
+	  fill="none" 
+	  stroke-width="4"
+	  opacity="0.49"
+	/>
+	<path 
+	  d="M 424 414 C  235 355 235 355 235 355 C  214 190 214 190 214 190 C  28 205 28 205 28 205 Z" 
+	  stroke="#feb9ff" 
+	  fill="none" 
+	  stroke-width="3"
+	  opacity="0.94"
+	/>
+	<circle 
+	  cx="114" 
+	  cy="169" 
+	  r="63" 
+	  fill="#cb6198"
+	  opacity="0.32"
+	  stroke="#c4f95c"
+	  stroke-width="2"
+	/>
+		</svg>

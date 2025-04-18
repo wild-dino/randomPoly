@@ -1,0 +1,12 @@
+{
+  "name": "hipo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "poly": "node ./scripts/poly.js"
+  },
+  "devDependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0"
+  }
+}
