@@ -1,0 +1,67 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#e6b6ff" />
+  
+	<rect 
+	  x="361" 
+	  y="331" 
+	  width="110" 
+	  height="26" 
+	  fill="#51f060" 
+	  stroke="#f419b8"
+	  stroke-width="3"
+	  opacity="0.49"
+	  rx="10"
+	/>
+	<polygon 
+	  points="435.89817263502044,316.03554815356426 408.3573048136288,334.9205147650855 409.9778982609033,300.34525312654483" 
+	  fill="#fdb470" 
+	  opacity="0.60"
+	/>
+	<rect 
+	  x="162" 
+	  y="122" 
+	  width="74" 
+	  height="74" 
+	  fill="#57fd8c" 
+	  stroke="#7e678a"
+	  stroke-width="3"
+	  opacity="0.75"
+	  rx="19"
+	/>
+	<rect 
+	  x="192" 
+	  y="72" 
+	  width="239" 
+	  height="158" 
+	  fill="#5a95e5" 
+	  stroke="#c86187"
+	  stroke-width="4"
+	  opacity="0.56"
+	  rx="5"
+	/>
+	<polygon 
+	  points="199.70023169107637,409.98382107852905 176.01033361750893,419.0077432655562 175.4060454492804,395.46934364059325" 
+	  fill="#2082e5" 
+	  opacity="0.45"
+	/>
+	<circle 
+	  cx="457" 
+	  cy="129" 
+	  r="23" 
+	  fill="#1370fd"
+	  opacity="0.74"
+	  stroke="#1cb2a7"
+	  stroke-width="0"
+	/>
+	<rect 
+	  x="169" 
+	  y="378" 
+	  width="249" 
+	  height="76" 
+	  fill="#69fba8" 
+	  stroke="#67400f"
+	  stroke-width="4"
+	  opacity="0.83"
+	  rx="12"
+	/>
+</svg>

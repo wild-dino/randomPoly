@@ -1,0 +1,59 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f6dc46" />
+  
+	<path 
+	  d="M 301 99 C  139 162 139 162 139 162 Z" 
+	  stroke="#9857cb" 
+	  fill="none" 
+	  stroke-width="3"
+	  opacity="0.88"
+	/>
+	<polygon 
+	  points="74.64808656835353,347.8283836100603 69.42914528893847,358.2457528987705 57.673637415060796,364.6761792443059 41.75911124853425,361.06342997683174 33.00889643394586,344.6112046131936 36.83330696999403,331.90435407208264 58.315652372271565,323.448232567448 71.85269440833963,332.9419123550933" 
+	  fill="#299a8c" 
+	  opacity="0.50"
+	/>
+	<path 
+	  d="M 203 100 C  257 228 257 228 257 228 C  227 371 227 371 227 371 Z" 
+	  stroke="#27feef" 
+	  fill="none" 
+	  stroke-width="1"
+	  opacity="0.51"
+	/>
+	<circle 
+	  cx="104" 
+	  cy="204" 
+	  r="14" 
+	  fill="#ffc2c3"
+	  opacity="0.72"
+	  stroke="#3013c8"
+	  stroke-width="0"
+	/>
+	<path 
+	  d="M 392 162 C  454 192 454 192 454 192 C  497 108 497 108 497 108 Z" 
+	  stroke="#c0a238" 
+	  fill="none" 
+	  stroke-width="1"
+	  opacity="0.57"
+	/>
+	<rect 
+	  x="308" 
+	  y="151" 
+	  width="77" 
+	  height="241" 
+	  fill="#fd22b3" 
+	  stroke="#790e26"
+	  stroke-width="0"
+	  opacity="0.50"
+	  rx="13"
+	/>
+	<circle 
+	  cx="271" 
+	  cy="315" 
+	  r="138" 
+	  fill="#899beb"
+	  opacity="0.49"
+	  stroke="#459081"
+	  stroke-width="3"
+	/>
+</svg>
