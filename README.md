@@ -14,5 +14,3 @@ npm run poly -- -s 8 -w 700 -h 150
 #### output:
 
 ![modern art](./output/random-poly-1.svg)
-
-#### some random pictures:
